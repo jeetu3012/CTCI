@@ -6,11 +6,10 @@
     </data>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/Users/jibhandi/NetBeansProjects/CodeP/ArraysAndStrings/palindromePermutation.cpp</file>
-        </group>
         <group name="Self">
-            <file>file:/Users/jibhandi/NetBeansProjects/CodeP/ArraysAndStrings/stringBuilder.cpp</file>
+            <file>file:/Users/jibhandi/NetBeansProjects/CodeP/list/List.h</file>
+            <file>file:/Users/jibhandi/NetBeansProjects/CodeP/list/main.cpp</file>
+            <file>file:/Users/jibhandi/NetBeansProjects/CodeP/list/listUtils.cpp</file>
         </group>
     </open-files>
 </project-private>
